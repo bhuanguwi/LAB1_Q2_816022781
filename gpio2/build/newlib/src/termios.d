@@ -1,9 +1,9 @@
 src/termios.o: \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/newlib/src/termios.c \
- /home/bennyhuang/esp/q2b/gpio/build/include/sdkconfig.h \
+ /home/bennyhuang/esp/q2b/gpio2/build/include/sdkconfig.h \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/newlib/platform_include/sys/termios.h
 
-/home/bennyhuang/esp/q2b/gpio/build/include/sdkconfig.h:
+/home/bennyhuang/esp/q2b/gpio2/build/include/sdkconfig.h:
 
 /opt/esp_sdk/ESP8266_RTOS_SDK/components/newlib/platform_include/sys/termios.h:
 /opt/esp_sdk/ESP8266_RTOS_SDK/components/newlib/src/termios.c:

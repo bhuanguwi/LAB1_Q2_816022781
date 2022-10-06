@@ -1,7 +1,7 @@
 port/net_sockets.o: \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/mbedtls/port/net_sockets.c \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/mbedtls/port/include/mbedtls/esp_config.h \
- /home/bennyhuang/esp/q2b/gpio/build/include/sdkconfig.h \
+ /home/bennyhuang/esp/q2b/gpio2/build/include/sdkconfig.h \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/mbedtls/mbedtls/include/mbedtls/config.h \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/mbedtls/mbedtls/include/mbedtls/check_config.h \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/mbedtls/port/include/esp_mem.h \
@@ -99,7 +99,7 @@ port/net_sockets.o: \
 
 /opt/esp_sdk/ESP8266_RTOS_SDK/components/mbedtls/port/include/mbedtls/esp_config.h:
 
-/home/bennyhuang/esp/q2b/gpio/build/include/sdkconfig.h:
+/home/bennyhuang/esp/q2b/gpio2/build/include/sdkconfig.h:
 
 /opt/esp_sdk/ESP8266_RTOS_SDK/components/mbedtls/mbedtls/include/mbedtls/config.h:
 

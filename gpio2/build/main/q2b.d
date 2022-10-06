@@ -1,7 +1,7 @@
-q2b.o: /home/bennyhuang/esp/q2b/gpio/main/q2b.c \
+q2b.o: /home/bennyhuang/esp/q2b/gpio2/main/q2b.c \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/freertos/include/freertos/FreeRTOS.h \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/freertos/port/esp8266/include/freertos/FreeRTOSConfig.h \
- /home/bennyhuang/esp/q2b/gpio/build/include/sdkconfig.h \
+ /home/bennyhuang/esp/q2b/gpio2/build/include/sdkconfig.h \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/esp8266/include/rom/ets_sys.h \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/esp8266/include/esp8266/eagle_soc.h \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/esp8266/include/driver/soc.h \
@@ -44,7 +44,7 @@ q2b.o: /home/bennyhuang/esp/q2b/gpio/main/q2b.c \
 
 /opt/esp_sdk/ESP8266_RTOS_SDK/components/freertos/port/esp8266/include/freertos/FreeRTOSConfig.h:
 
-/home/bennyhuang/esp/q2b/gpio/build/include/sdkconfig.h:
+/home/bennyhuang/esp/q2b/gpio2/build/include/sdkconfig.h:
 
 /opt/esp_sdk/ESP8266_RTOS_SDK/components/esp8266/include/rom/ets_sys.h:
 
@@ -119,4 +119,4 @@ q2b.o: /home/bennyhuang/esp/q2b/gpio/main/q2b.c \
 /opt/esp_sdk/ESP8266_RTOS_SDK/components/esp8266/include/esp_system.h:
 
 /opt/esp_sdk/ESP8266_RTOS_SDK/components/esp8266/include/esp_idf_version.h:
-/home/bennyhuang/esp/q2b/gpio/main/./q2b.c:
+/home/bennyhuang/esp/q2b/gpio2/main/./q2b.c:
